@@ -1,0 +1,3 @@
+include ':easyValidation'
+include ':app'
+rootProject.name = "EasyValidation"

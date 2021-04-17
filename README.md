@@ -6,7 +6,9 @@
 #Description
 
 
-This libarary is small contribution from CEDCOSS Magenative team for easy calidation for Android Forms.
+This library is a small contribution from the CEDCOSS Magenative team for easy validation for Android Forms.
+
+ 
 
 
 
